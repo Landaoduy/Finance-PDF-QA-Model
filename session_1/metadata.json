@@ -1,0 +1,82 @@
+[
+  {
+    "file_name": "2024-amazon-annual-report-10K.pdf",
+    "format_name": "2024-amazon-annual-report-10K",
+    "file_path": "annual_report/2024-amazon-annual-report-10K.pdf",
+    "chunk_count": 112,
+    "total_word_count": 47161,
+    "summary": "The report is about Amazon.com, Inc. and covers the financial year 2024."
+  },
+  {
+    "file_name": "2024-tsla-annual-report-10K.pdf",
+    "format_name": "2024-tsla-annual-report-10K",
+    "file_path": "annual_report/2024-tsla-annual-report-10K.pdf",
+    "chunk_count": 179,
+    "total_word_count": 51096,
+    "summary": "The report is about Tesla, Inc. and covers the fiscal year ended December 31, 2024[1][3]."
+  },
+  {
+    "file_name": "2024-reddit-annual-report-10K.pdf",
+    "format_name": "2024-reddit-annual-report-10K",
+    "file_path": "annual_report/2024-reddit-annual-report-10K.pdf",
+    "chunk_count": 146,
+    "total_word_count": 67565,
+    "summary": "The report is the annual Form 10-K for Reddit, Inc., covering the fiscal year ended December 31, 2024."
+  },
+  {
+    "file_name": "2024-oracle-annual-report-10K.pdf",
+    "format_name": "2024-oracle-annual-report-10K",
+    "file_path": "annual_report/2024-oracle-annual-report-10K.pdf",
+    "chunk_count": 217,
+    "total_word_count": 62640,
+    "summary": "The report is about Oracle Corporation and covers the fiscal year ended May 31, 2024[3]."
+  },
+  {
+    "file_name": "2024-nvidia-annual-report-10K.pdf",
+    "format_name": "2024-nvidia-annual-report-10K",
+    "file_path": "annual_report/2024-nvidia-annual-report-10K.pdf",
+    "chunk_count": 224,
+    "total_word_count": 93680,
+    "summary": "The report is about NVIDIA Corporation and covers the fiscal year 2024."
+  },
+  {
+    "file_name": "2024-apple-annual-report-10K.pdf",
+    "format_name": "2024-apple-annual-report-10K",
+    "file_path": "annual_report/2024-apple-annual-report-10K.pdf",
+    "chunk_count": 134,
+    "total_word_count": 57814,
+    "summary": "The report is about Apple Inc. and covers the fiscal year ended September 28, 2024."
+  },
+  {
+    "file_name": "2024-google-annual-report-10K.pdf",
+    "format_name": "2024-google-annual-report-10K",
+    "file_path": "annual_report/2024-google-annual-report-10K.pdf",
+    "chunk_count": 123,
+    "total_word_count": 51919,
+    "summary": "The report is the Form 10-K annual report for Alphabet Inc. covering the fiscal year ended December 31, 2024[1][3]."
+  },
+  {
+    "file_name": "2024-netflix-annual-report-10K.pdf",
+    "format_name": "2024-netflix-annual-report-10K",
+    "file_path": "annual_report/2024-netflix-annual-report-10K.pdf",
+    "chunk_count": 105,
+    "total_word_count": 36885,
+    "summary": "The report is about Netflix, Inc. and covers the fiscal year ended December 31, 2024."
+  },
+  {
+    "file_name": "2024-cisco-full-annual-report.pdf",
+    "format_name": "2024-cisco-full-annual-report",
+    "file_path": "annual_report/2024-cisco-full-annual-report.pdf",
+    "chunk_count": 175,
+    "total_word_count": 71074,
+    "summary": "The report is about Cisco Systems, Inc. and covers the fiscal year 2024."
+  },
+  {
+    "file_name": "2024-meta-full-annual-report.pdf",
+    "format_name": "2024-meta-full-annual-report",
+    "file_path": "annual_report/2024-meta-full-annual-report.pdf",
+    "chunk_count": 11,
+    "total_word_count": 3107,
+    "summary": "The report is about Meta Platforms, Inc. and covers the financial results for the fourth quarter and full year ended December 31, 2024[1][3][4]."
+  }
+]

@@ -1,0 +1,697 @@
+file_name,format_name,file_path,summary,chunk,chunk_id,question,answer
+2024-amazon-annual-report-10K.pdf,2024-amazon-annual-report-10K,annual_report/2024-amazon-annual-report-10K.pdf,"The report is about Amazon.com, Inc. and covers the financial year 2024.","operating expenses include “Cost of sales,” “Fulfillment,” “Technology and infrastructure,” “Sales and marketing,” “General 
+and administrative,” and “Other operating expense (income), net.” Our CODM manages our business primarily by reviewing 
+consolidated results by segment on a quarterly basis, and using those results along with forecasts and other non-financial 
+information in our annual budgeting process.
+65",98,"How does Amazon.com, Inc.'s Chief Operating Decision Maker (CODM) manage the business using operating expense categories such as ""Cost of sales,"" ""Fulfillment,"" ""Technology and infrastructure,"" ""Sales and marketing,"" ""General and administrative,"" and ""Other operating expense (income), net"" in the financial year 2024?","Amazon.com's Chief Operating Decision Maker (CODM) manages the business by reviewing consolidated results by segment on a quarterly basis, focusing on operating expense categories such as ""Cost of sales,"" ""Fulfillment,"" ""Technology and infrastructure,"" ""Sales and marketing,"" ""General and administrative,"" and ""Other operating expense (income), net."" These categories are used to evaluate performance and guide decision-making along with forecasts and non-financial information during the annual budgeting process[1].
+
+For the financial year 2024, the operating expenses reported include:
+- Cost of sales: $326.3 billion
+- Fulfillment: $98.5 billion
+- Technology and infrastructure: $88.5 billion
+- Sales and marketing: $43.9 billion
+- General and administrative: $11.4 billion
+- Other operating expense (income), net: $0.76 billion
+
+The total operating expenses amounted to approximately $569.4 billion, with operating income of $68.6 billion for the year 2024[4].
+
+The CODM uses these expense categories to monitor and manage costs effectively, ensuring operational excellence and long-term thinking as part of Amazon's guiding principles. This structured review helps in aligning resources and investments, such as in technology and infrastructure, while balancing costs in sales, marketing, and administrative functions to support growth and customer-centric goals[1][4]."
+2024-tsla-annual-report-10K.pdf,2024-tsla-annual-report-10K,annual_report/2024-tsla-annual-report-10K.pdf,"The report is about Tesla, Inc. and covers the fiscal year ended December 31, 2024[1][3].","105
+5/25/25, 1:46 PM
+tsla-20241231
+https://www.sec.gov/Archives/edgar/data/1318605/000162828025003063/tsla-20241231.htm
+154/157",175,"Based on the Tesla, Inc. 2024 fiscal year report, what were the key financial highlights for Tesla in 2024, including net income, vehicle deliveries in Q4, and capital expenditures related to AI initiatives?","For Tesla's 2024 fiscal year, the key financial highlights include a GAAP net income of approximately $7.1 billion, with $2.3 billion earned in Q4 alone[1]. In Q4 2024, Tesla set a record by producing about 459,000 vehicles and delivering over 495,000 vehicles, marking the highest quarterly deliveries in the company's history[4]. Regarding capital expenditures related to AI initiatives, Tesla invested around $5 billion cumulatively in AI-related capital expenditures and infrastructure by the end of 2024, with plans to keep capital expenditures flat year-over-year in 2025. This AI investment notably accelerated the buildout of Tesla's AI computing platform ""Cortex,"" which supports the rollout of Full Self-Driving (FSD) version 13[3].
+
+Additional context includes Tesla's total revenues for 2024 reaching about $97.7 billion, with automotive sales contributing $72.5 billion. The company also saw strong growth in energy generation and storage revenues, which more than doubled year-over-year to over $10 billion[1]. Tesla's free cash flow for 2024 was $3.6 billion despite capital expenditures exceeding $2.4 billion, reflecting efficient capital management[3]."
+2024-reddit-annual-report-10K.pdf,2024-reddit-annual-report-10K,annual_report/2024-reddit-annual-report-10K.pdf,"The report is the annual Form 10-K for Reddit, Inc., covering the fiscal year ended December 31, 2024.","The absolute number of our DAUq and our DAUq growth rate has decreased in the past and may fluctuate or decrease in 
+one or more markets from time to time due to various factors, especially after periods of high growth, such as we have 
+experienced. For example, although we saw increased growth in our user base during the COVID-19 pandemic, we experienced 
+lower levels of DAUq growth and declining DAUq as the effects of the COVID-19 pandemic subsided. DAUq has also 
+declined in the past in periods following usage peaks surrounding certain worldwide events, such as the onset of the conflict 
+between Russia and Ukraine in the three months ended March 31, 2022, and cultural trends, including video game releases, 
+such as Elden Ring in the three months ended March 31, 2022, and traffic related to r/ wallstreetbets in the three months ended 
+March 31, 2021. These usage peaks are driven by external factors that are outside of our control. Accordingly, such growth may 
+not be repeatable and we may experience declines in DAUq in the future in similar circumstances. DAUq has also been volatile 
+during community responses to domestic and international social unrest as well as in response to actions by us. For example, we 
+saw increased growth in our user base in the three months ended December 31, 2023, which may have been driven in part by 
+performance improvements in our product and possibly by migration of usage from certain third-party applications in response 
+to changes in our application program interface (“API”) terms and policies. Such growth may not be sustainable. In the three 
+months ended December 31, 2024, logged-out DAUq comprised 55% of global DAUq. Logged-out users typically come to 
+Reddit via search engines, spend less time on the site, and do not monetize at the same rate as logged-in users. Furthermore, we 
+anticipate that our DAUq growth rate will slow over time as the absolute number of our DAUq increases. To the extent our 
+DAUq growth rate slows or becomes negative, our success will increasingly depend on our ability to increase levels of 
+engagement and monetization on our platform, including the level at which users visiting us from search traffic become more 
+frequent users of our platform. 
+A number of factors could harm Redditor growth and engagement or impact our ability to compete effectively, including if:
+•
+Redditors engage with other products, services, or activities as an alternative to ours;
+•
+our competitors incorporate features into their products that are substantially similar to ours or improve upon such 
+features when including them in their products;
+•
+we fail to introduce new and improved products or services or we introduce new or improved products or services that 
+negatively affect Redditor engagement;
+•
+we are unable to convert DAUq who come to our platform through internet search engines to sign-up and log in;
+•
+Redditors feel that their Reddit experience is diminished as a result of our decisions with respect to the frequency, 
+prominence, and size of ads that we display, or the quality of the ads displayed;
+•
+influential Redditors or certain demographics of Redditors conclude that an alternative product or service better meets 
+their needs;
+•
+we are unable to convince new Redditors of the value and usefulness of our products and services;
+•
+technical or other problems prevent us from delivering our products or services in a rapid and reliable manner or 
+otherwise negatively affect Redditors’ experience with our platform;
+•
+we fail to effectively adopt new technologies, such as machine learning and artificial intelligence (“AI”), that our 
+competitors may have more experience utilizing and leveraging in their products and services; 
+•
+Redditors have difficulty installing, updating, searching, or otherwise accessing our products and content or prefer to 
+utilize third-party applications that have shut down or no longer integrate with our platform;
+•
+there are disruptions to the normal operation of our communities, including as a result of actions or inactions by our 
+volunteer moderators;
+•
+Redditors are unable to locate content that is interesting, useful, relevant, reliable, high-quality, or trustworthy to them, 
+or otherwise find content available on our platform offensive, inappropriate, hostile, or otherwise objectionable;
+•
+there are Redditor concerns related to privacy and communication, safety, security, or other factors or changes to our 
+platform or policies are not well received by Redditors;
+•
+we are unable to combat harmful or inappropriate usage of our platform;
+•
+there are adverse changes in our products or services that are mandated by, or that we elect to make to address, 
+legislation, regulatory authorities, or litigation, including settlements;
+Table of Contents
+15",18,"Based on the Reddit, Inc. 2024 Form 10-K, how did external factors such as the COVID-19 pandemic, global events like the Russia-Ukraine conflict, and cultural trends impact Reddit’s Daily Active Uniques (DAUq) growth, and what challenges did Reddit identify that could affect future Redditor growth and engagement?","According to Reddit, Inc.'s 2024 Form 10-K, external factors such as the COVID-19 pandemic, the Russia-Ukraine conflict, and cultural trends like major video game releases significantly impacted Reddit’s Daily Active Uniques (DAUq) growth. During the COVID-19 pandemic, Reddit experienced increased user growth, but as the pandemic effects subsided, DAUq growth slowed and even declined. Similarly, DAUq declined following usage peaks related to the onset of the Russia-Ukraine conflict in early 2022 and cultural events such as the release of the video game Elden Ring and traffic spikes from communities like r/wallstreetbets. These peaks and subsequent declines are driven by external factors beyond Reddit's control, making such growth non-repeatable and causing volatility in DAUq[3].
+
+Reddit also noted that DAUq growth can fluctuate due to community responses to social unrest and changes in Reddit’s own policies, such as API terms, which in some cases led to increased growth in late 2023. However, much of the DAUq consists of logged-out users (55% as of late 2024), who typically spend less time on the site and monetize less effectively than logged-in users. Reddit anticipates that as the absolute number of DAUq grows, the growth rate will slow, making future success increasingly dependent on improving user engagement and monetization, especially converting logged-out users into logged-in users[3].
+
+The company identified multiple challenges that could affect future Redditor growth and engagement, including:
+
+- Competition from other platforms and services that may offer similar or improved features.
+- Failure to introduce new or improved products that enhance user engagement.
+- Difficulty converting users who visit via search engines into registered, logged-in users.
+- Negative user reactions to advertising frequency, prominence, or quality.
+- Loss of influential Redditors or demographic groups to alternative platforms.
+- Technical issues affecting platform reliability or user experience.
+- Inability to adopt new technologies like AI as effectively as competitors.
+- Challenges with content moderation, including harmful or offensive content.
+- Changes mandated by legislation or regulatory actions.
+- Adverse media coverage or negative publicity.
+- Competition from large language models (LLMs) that may reduce direct visits to Reddit by providing information derived from Reddit content[3].
+
+These factors collectively pose risks to sustaining Redditor growth and engagement, which are critical for Reddit’s business performance and monetization[3]."
+2024-oracle-annual-report-10K.pdf,2024-oracle-annual-report-10K,annual_report/2024-oracle-annual-report-10K.pdf,"The report is about Oracle Corporation and covers the fiscal year ended May 31, 2024[3].","ORACLE CORPORATION
+FISCAL YEAR 2024
+FORM 10-K
+ANNUAL REPORT
+ 
+TABLE OF CONTENTS
+ 
+ 
+ 
+ 
+ 
+Page
+ 
+ 
+ 
+ 
+ 
+PART I.
+   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Item 1.
+  Business
+ 
+4
+ 
+ 
+ 
+ 
+ 
+Item 1A.
+  Risk Factors
+ 
+19
+ 
+ 
+ 
+ 
+ 
+Item 1B.
+  Unresolved Staff Comments
+ 
+33
+ 
+ 
+ 
+ 
+ 
+Item 1C.
+  Cybersecurity
+ 
+33
+ 
+ 
+ 
+ 
+ 
+Item 2.
+  Properties
+ 
+35
+ 
+ 
+ 
+ 
+ 
+Item 3.
+  Legal Proceedings
+ 
+36
+ 
+ 
+ 
+ 
+ 
+Item 4.
+  Mine Safety Disclosures
+ 
+36
+ 
+ 
+ 
+ 
+ 
+PART II.
+   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Item 5.
+  Market for Registrant’s Common Equity, Related Stockholder Matters and Issuer Purchases of Equity Securities
+ 
+37
+ 
+ 
+ 
+ 
+ 
+Item 6.
+  [Reserved]
+ 
+38
+ 
+ 
+ 
+ 
+ 
+Item 7.
+  Management’s Discussion and Analysis of Financial Condition and Results of Operations
+ 
+39
+ 
+ 
+ 
+ 
+ 
+Item 7A.
+  Quantitative and Qualitative Disclosures About Market Risk
+ 
+56
+ 
+ 
+ 
+ 
+ 
+Item 8.
+  Financial Statements and Supplementary Data
+ 
+58
+ 
+ 
+ 
+ 
+ 
+Item 9.
+  Changes in and Disagreements with Accountants on Accounting and Financial Disclosure
+ 
+58
+ 
+ 
+ 
+ 
+ 
+Item 9A.
+  Controls and Procedures
+ 
+58
+ 
+ 
+ 
+ 
+ 
+PART III.
+   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Item 10.
+  Directors, Executive Officers and Corporate Governance
+ 
+60
+ 
+ 
+ 
+ 
+ 
+Item 11.
+  Executive Compensation
+ 
+60
+ 
+ 
+ 
+ 
+ 
+Item 12.
+  Security Ownership of Certain Beneficial Owners and Management and Related Stockholder Matters
+ 
+60
+ 
+ 
+ 
+ 
+ 
+Item 13.
+  Certain Relationships and Related Transactions, and Director Independence
+ 
+60
+ 
+ 
+ 
+ 
+ 
+Item 14.
+  Principal Accountant Fees and Services
+ 
+60
+ 
+ 
+ 
+ 
+ 
+PART IV.
+   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Item 15.
+  Exhibits and Financial Statement Schedules
+ 
+61
+ 
+ 
+ 
+ 
+ 
+Item 16.
+  Form 10-K Summary
+ 
+106
+ 
+ 
+ 
+ 
+ 
+5/25/25, 1:44 PM
+10-K
+https://www.sec.gov/Archives/edgar/data/1341439/000095017024075605/orcl-20240531.htm
+3/194",2,"Based on the Oracle Corporation fiscal year 2024 Form 10-K annual report, what are the main sections included in the report’s table of contents?","The main sections included in the Oracle Corporation fiscal year 2024 Form 10-K annual report's table of contents are organized into four parts:
+
+PART I includes:
+- Item 1. Business
+- Item 1A. Risk Factors
+- Item 1B. Unresolved Staff Comments
+- Item 1C. Cybersecurity
+- Item 2. Properties
+- Item 3. Legal Proceedings
+- Item 4. Mine Safety Disclosures
+
+PART II includes:
+- Item 5. Market for Registrant’s Common Equity, Related Stockholder Matters and Issuer Purchases of Equity Securities
+- Item 6. [Reserved]
+- Item 7. Management’s Discussion and Analysis of Financial Condition and Results of Operations
+- Item 7A. Quantitative and Qualitative Disclosures About Market Risk
+- Item 8. Financial Statements and Supplementary Data
+- Item 9. Changes in and Disagreements with Accountants on Accounting and Financial Disclosure
+- Item 9A. Controls and Procedures
+
+PART III includes:
+- Item 10. Directors, Executive Officers and Corporate Governance
+- Item 11. Executive Compensation
+- Item 12. Security Ownership of Certain Beneficial Owners and Management and Related Stockholder Matters
+- Item 13. Certain Relationships and Related Transactions, and Director Independence
+- Item 14. Principal Accountant Fees and Services
+
+PART IV includes:
+- Item 15. Exhibits and Financial Statement Schedules
+- Item 16. Form 10-K Summary (noted as None in this report)
+
+This structure follows the standard SEC Form 10-K layout and is confirmed by the Oracle 2024 Form 10-K table of contents available in the report[1][3]."
+2024-nvidia-annual-report-10K.pdf,2024-nvidia-annual-report-10K,annual_report/2024-nvidia-annual-report-10K.pdf,The report is about NVIDIA Corporation and covers the fiscal year 2024.,"management and directors of the company; and (iii) provide reasonable assurance regarding prevention or timely 
+detection of unauthorized acquisition, use, or disposition of the company’s assets that could have a material effect on the 
+financial statements.
+Because of its inherent limitations, internal control over financial reporting may not prevent or detect misstatements. 
+Also, projections of any evaluation of effectiveness to future periods are subject to the risk that controls may become 
+inadequate because of changes in conditions, or that the degree of compliance with the policies or procedures may 
+deteriorate.
+48",180,What does NVIDIA Corporation's fiscal year 2024 report say about the limitations of internal control over financial reporting and the risks related to the effectiveness of these controls?,"NVIDIA Corporation's fiscal year 2024 report states that internal control over financial reporting is designed to provide reasonable assurance regarding the reliability of financial reporting and the preparation of financial statements in accordance with generally accepted accounting principles (GAAP). However, it acknowledges that internal control has inherent limitations, meaning it cannot provide absolute assurance that financial statements are free from material misstatement, whether due to error or fraud. The report emphasizes that the cost of internal control should not exceed the anticipated benefits, so the objective is reasonable, not absolute, assurance. Additionally, the company’s management is responsible for maintaining effective internal control over financial reporting and assessing its effectiveness, while the independent auditors evaluate and opine on this effectiveness based on established criteria. The audit includes assessing risks that a material weakness exists and testing the design and operating effectiveness of controls. Despite these efforts, there is always a risk that controls may not prevent or detect misstatements on a timely basis due to inherent limitations such as human error or circumvention[1][4].
+
+This explanation reflects the standard understanding that internal controls, while critical, cannot guarantee perfect accuracy or fraud prevention, and that risks related to their effectiveness remain. The report also highlights that the independent registered public accounting firm, PricewaterhouseCoopers LLP, audited both the consolidated financial statements and the internal control over financial reporting, concluding that the controls were effective in all material respects as of January 28, 2024[1]."
+2024-apple-annual-report-10K.pdf,2024-apple-annual-report-10K,annual_report/2024-apple-annual-report-10K.pdf,"The report is about Apple Inc. and covers the fiscal year ended September 28, 2024.","This Annual Report on Form 10-K (“Form 10-K”) contains forward-looking statements, within the meaning of the Private Securities Litigation Reform Act of 1995,
+that involve risks and uncertainties. Many of the forward-looking statements are located in Part I, Item 1 of this Form 10-K under the heading “Business” and Part
+II, Item 7 of this Form 10-K under the heading “Management’s Discussion and Analysis of Financial Condition and Results of Operations.” Forward-looking
+statements provide current expectations of future events based on certain assumptions and include any statement that does not directly relate to any historical
+or current fact. For example, statements in this Form 10-K regarding the potential future impact of macroeconomic conditions on the Company’s business and
+results of operations are forward-looking statements. Forward-looking statements can also be identified by words such as “future,” “anticipates,” “believes,”
+“estimates,” “expects,” “intends,” “plans,” “predicts,” “will,” “would,” “could,” “can,” “may,” and similar terms. Forward-looking statements are not guarantees of
+future performance and the Company’s actual results may differ significantly from the results discussed in the forward-looking statements. Factors that might
+cause such differences include, but are not limited to, those discussed in Part I, Item 1A of this Form 10-K under the heading “Risk Factors.” The Company
+assumes no obligation to revise or update any forward-looking statements for any reason, except as required by law.
+Unless otherwise stated, all information presented herein is based on the Company’s fiscal calendar, and references to particular years, quarters, months or
+periods refer to the Company’s fiscal years ended in September and the associated quarters, months and periods of those fiscal years. Each of the terms the
+“Company” and “Apple” as used herein refers collectively to Apple Inc. and its wholly owned subsidiaries, unless otherwise stated.
+PART I
+Item 1.    Business
+Company Background
+The Company designs, manufactures and markets smartphones, personal computers, tablets, wearables and accessories, and sells a variety of related
+services. The Company’s fiscal year is the 52- or 53-week period that ends on the last Saturday of September.
+Products
+iPhone
+iPhone  is the Company’s line of smartphones based on its iOS operating system. The iPhone line includes iPhone 16 Pro, iPhone 16, iPhone 15, iPhone 14
+and iPhone SE .
+Mac
+Mac  is the Company’s line of personal computers based on its macOS  operating system. The Mac line includes laptops MacBook Air  and MacBook Pro , as
+well as desktops iMac , Mac mini , Mac Studio  and Mac Pro .
+iPad
+iPad  is the Company’s line of multipurpose tablets based on its iPadOS  operating system. The iPad line includes iPad Pro , iPad Air , iPad and iPad mini .
+Wearables, Home and Accessories
+Wearables includes smartwatches, wireless headphones and spatial computers. The Company’s line of smartwatches, based on its watchOS  operating system,
+includes Apple Watch Ultra  2, Apple Watch  Series 10 and Apple Watch SE . The Company’s line of wireless headphones includes AirPods , AirPods Pro ,
+AirPods Max  and Beats  products. Apple Vision Pro™ is the Company’s first spatial computer based on its visionOS™ operating system.
+Home includes Apple TV , the Company’s media streaming and gaming device based on its tvOS  operating system, and HomePod  and HomePod mini ,
+high-fidelity wireless smart speakers.
+Accessories includes Apple-branded and third-party accessories.
+®
+®
+®
+®
+®
+®
+®
+®
+®
+®
+®
+®
+®
+®
+®
+®
+®
+®
+®
+®
+®
+®
+®
+®
+®
+®
+®
+Apple Inc. | 2024 Form 10-K | 1",3,"Based on Apple Inc.'s 2024 fiscal year Annual Report on Form 10-K, what are the main product lines Apple designs, manufactures, and markets, and which operating systems do these product lines use?","Apple Inc.'s main product lines designed, manufactured, and marketed include the iPhone, iPad, Mac, Wearables, Home and Accessories, and spatial computers. Each product line uses a specific operating system developed by Apple:
+
+- **iPhone**: Apple's line of smartphones running the iOS operating system[4].
+- **iPad**: Tablets running iPadOS, with various models including base iPad, iPad Mini, iPad Air, and iPad Pro[4].
+- **Mac**: Personal computers including MacBook Air, MacBook Pro, iMac, Mac mini, Mac Studio, and Mac Pro, all running macOS[2].
+- **Wearables**: This includes smartwatches such as Apple Watch Ultra 2, Apple Watch Series 10, and Apple Watch SE, which run watchOS; wireless headphones like AirPods and Beats; and spatial computers like Apple Vision Pro, which runs visionOS[1].
+- **Home**: Includes Apple TV, which runs tvOS, and smart speakers like HomePod and HomePod mini[1].
+
+These operating systems are tailored to their respective hardware platforms, enabling integrated user experiences across Apple's ecosystem[1][2][4]."
+2024-google-annual-report-10K.pdf,2024-google-annual-report-10K,annual_report/2024-google-annual-report-10K.pdf,"The report is the Form 10-K annual report for Alphabet Inc. covering the fiscal year ended December 31, 2024[1][3].","expenses. Additionally, a decrease in the 2024 U.S. federal Foreign Derived Intangible Income tax deduction 
+contributed to an increase in the effective tax rate. These factors were partially offset by an increase in stock-based 
+compensation-related tax benefits in 2024.
+The OECD is coordinating negotiations among more than 140 countries with the goal of achieving consensus 
+around substantial changes to international tax policies, including the implementation of a minimum global effective tax 
+rate of 15%. Some countries have already implemented the legislation effective January 1, 2024, and we expect others 
+to follow, however this did not have a material effect on our income tax provision for the 2024 fiscal year. 
+Financial Condition
+Cash, Cash Equivalents, and Marketable Securities
+As of December 31, 2024, we had $95.7 billion in cash, cash equivalents, and short-term marketable securities. 
+Cash equivalents and marketable securities are comprised of time deposits, money market funds, highly liquid 
+government bonds, corporate debt securities, mortgage-backed and asset-backed securities, and marketable equity 
+securities.
+Sources, Uses of Cash and Related Trends
+Our principal sources of liquidity are cash, cash equivalents, and marketable securities, as well as the cash flow 
+that we generate from operations. The primary use of capital continues to be to invest for the long-term growth of the 
+business. We regularly evaluate our cash and capital structure, including the size, pace, and form of capital return to 
+stockholders.
+The following table presents our cash flows (in millions):
+ 
+Year Ended December 31,
+ 
+2023
+2024
+Net cash provided by operating activities
+$ 
+101,746 $ 
+125,299 
+Net cash used in investing activities
+$ 
+(27,063) $ 
+(45,536) 
+Net cash used in financing activities
+$ 
+(72,093) $ 
+(79,733) 
+Cash Provided by Operating Activities
+Our largest source of cash provided by operations are advertising revenues generated by Google Search & other 
+properties, Google Network properties, and YouTube properties. In Google Services, we also generate cash through 
+consumer subscriptions, the sale of apps and in-app purchases, and devices. In Google Cloud, we generate cash 
+through consumption-based fees and subscriptions for infrastructure, platform, applications, and other cloud services.
+Our primary uses of cash from operating activities include payments to distribution and Google Network partners, 
+to employees for compensation, and to content providers. Other uses of cash from operating activities include 
+payments to suppliers for devices, to tax authorities for income taxes, and other general corporate expenditures.
+Net cash provided by operating activities increased from 2023 to 2024 due to an increase in cash received from 
+customers, partially offset by an increase in cash payments for cost of revenues and operating expenses.
+Cash Used in Investing Activities
+Cash provided by investing activities consists primarily of maturities and sales of investments in marketable and 
+non-marketable securities. Cash used in investing activities consists primarily of purchases of marketable and non-
+marketable securities, purchases of property and equipment, and payments for acquisitions.
+Net cash used in investing activities increased from 2023 to 2024 primarily due to an increase in purchases of 
+property and equipment and purchases of marketable securities, partially offset by increases in maturities and sales of 
+marketable securities. The increase in purchases of property and equipment is primarily driven by investments in 
+technical infrastructure. 
+Cash Used in Financing Activities
+Cash provided by financing activities consists primarily of proceeds from issuance of debt and proceeds from the 
+sale of interests in consolidated entities. Cash used in financing activities consists primarily of repurchases of stock, 
+net payments related to stock-based award activities, payment of dividends, and repayments of debt.
+Net cash used in financing activities increased from 2023 to 2024 due to dividend payments and net payments 
+related to stock-based award activities, partially offset by an increase in proceeds from issuance of debt, net of 
+repayments.
+Table of Contents
+Alphabet Inc.
+41.",59,"Based on Alphabet Inc.'s 2024 Form 10-K report, how did the company’s net cash provided by operating activities, investing activities, and financing activities change from 2023 to 2024, and what were the primary factors contributing to these changes?","From 2023 to 2024, Alphabet Inc.'s net cash provided by operating activities increased significantly from approximately $101.7 billion to $125.3 billion. This increase was primarily driven by growth in cash receipts from customers and favorable changes in net operating assets and liabilities, partially offset by a slight decrease in net income excluding non-cash items[1].
+
+Net cash used in investing activities rose from about $27.1 billion in 2023 to $45.5 billion in 2024. The main contributors to this increase were higher purchases of property and equipment—capital expenditures increased from $32.3 billion to $52.5 billion—largely for AI-related infrastructure, global factory expansion, and machinery. Additionally, there were increased purchases of marketable securities, partially offset by higher maturities and sales of securities[1].
+
+Net cash used in financing activities also increased from $72.1 billion in 2023 to $79.7 billion in 2024. This was primarily due to the initiation of $7.4 billion in dividend payments and higher net payments related to stock-based award activities. These outflows were partially offset by an increase in proceeds from debt issuance, which rose by $1.81 billion, although repayments of debt also increased by $1.15 billion[1][3].
+
+In summary, the key factors for these changes were strong operational cash flow growth driven by customer receipts, substantial investments in capital expenditures focused on AI and infrastructure, and increased financing outflows due to dividends and stock-based compensation, balanced by active debt management[1][3]."
+2024-netflix-annual-report-10K.pdf,2024-netflix-annual-report-10K,annual_report/2024-netflix-annual-report-10K.pdf,"The report is about Netflix, Inc. and covers the fiscal year ended December 31, 2024.","believe is important for success at Netflix. We aim to equip our people leaders (officers, VPs, directors, and manager-level employees) to lead the business and
+our teams in alignment with our expectations and strategic objectives.
+We aim generally to pay our employees at their personal top of market, and they generally are able to choose the form of their compensation between
+cash and stock options. This permits employee compensation to be highly personalized and reflective of each employee's individual needs and preferences. We
+conduct pay equity analyses at least annually, and have adopted practices to help ensure that employees from underrepresented groups are not being underpaid
+based on gender identity (globally) and race or ethnicity (U.S.) relative to others doing the same or similar work under comparable circumstances. We aim to
+rectify any pay gaps that we find through this analysis.
+We care about the health and well-being of our employees and their families and provide a variety of benefit programs based on region, including health
+benefits. In the U.S., employees generally receive an annual cash health benefit allowance that they may allocate to medical, dental and vision premiums in a
+way that makes sense for them. Employees have access to a host of other benefits, including mental health, childcare, family planning and a company match
+for charitable donations.
+We believe that our approach to human capital resources has been instrumental in our growth, and has made Netflix a desirable destination for employees.
+2",6,"According to the Netflix, Inc. fiscal year 2024 report, how does Netflix approach employee compensation and benefits to align with its strategic objectives and support employees' personal needs?","Netflix approaches employee compensation by aiming to pay each employee at their ""personal top of market,"" allowing them to choose their compensation mix between cash and stock options. This approach personalizes pay to reflect individual needs and preferences, supporting alignment with strategic objectives. Netflix conducts annual pay equity analyses to ensure fair compensation across gender identity globally and race or ethnicity in the U.S., addressing any identified pay gaps[5].
+
+Regarding benefits, Netflix provides a variety of programs tailored by region, focusing on the health and well-being of employees and their families. In the U.S., employees receive an annual cash health benefit allowance to allocate toward medical, dental, and vision premiums as they see fit. Additional benefits include mental health support, childcare, family planning, and a company match for charitable donations. These benefits are designed to support employees during important life moments and sustain high performance aligned with Netflix’s business goals[5][3].
+
+This compensation and benefits strategy reflects Netflix’s emphasis on performance-driven pay, personalization, equity, and holistic employee well-being to attract, retain, and motivate talent in alignment with its strategic objectives[5][3][2]."
+2024-cisco-full-annual-report.pdf,2024-cisco-full-annual-report,annual_report/2024-cisco-full-annual-report.pdf,"The report is about Cisco Systems, Inc. and covers the fiscal year 2024.","insufficient to fully fix the issue. In addition, workarounds or other mitigation efforts in certain instances have not been, and in 
+the future may not be, available or sufficient to protect customers prior to a security update being made available. 
+Vulnerabilities can persist even after we have issued security updates if we have not identified and addressed the root cause of a 
+particular vulnerability, if customers have not installed the most recent updates, if the attackers exploited the vulnerabilities 
+before a security update is applied to install additional malware to further compromise customers’ systems, or if a previously 
+patched vulnerability is inadvertently reintroduced due to a security regression during future development. Additionally, 
+customers may also need to test security updates before they can be deployed which can delay implementation. When 
+customers do not deploy security updates in a timely manner, use solutions that are end of life and no longer receive security 
+updates, or decide not to upgrade to the latest versions of our solutions containing the security update, they are left vulnerable. 
+In addition, we rely on third-party providers of software and cloud-based services on which our and third-party data is stored or 
+processed, and we cannot control the timing at which third-party providers remedy vulnerabilities, which could leave us 
+vulnerable. Failure to comply with internal security policies and standards, including secure development lifecycle practices, 
+failure to prevent or promptly mitigate vulnerabilities and security defects, prioritization errors in remedying vulnerabilities or 
+security defects, failure of third-party providers to remedy vulnerabilities or security defects, or customers not deploying 
+25",65,"Based on the 2024 Cisco Systems, Inc. report, what challenges does Cisco identify regarding the effectiveness and deployment of security updates to customers in mitigating vulnerabilities?","Cisco identifies several challenges regarding the effectiveness and deployment of security updates to customers in mitigating vulnerabilities. These include the persistence of vulnerabilities even after security updates are issued if the root cause is not fully addressed, customers not installing updates promptly, attackers exploiting vulnerabilities before updates are applied, and the risk of previously patched vulnerabilities being reintroduced due to security regressions during future development. Additionally, customers may delay deployment due to the need for testing, and the use of end-of-life solutions that no longer receive updates leaves them vulnerable. Cisco also notes reliance on third-party providers who may not remediate vulnerabilities in a timely manner, further complicating protection efforts[1].
+
+Specifically, Cisco highlights that workarounds or mitigation efforts may be insufficient or unavailable before updates are released, and that delays or failures in deploying updates expose customers to ongoing risks. The complexity of modern network environments and distributed workloads exacerbate these challenges, making centralized management and integrated security platforms critical to improving update effectiveness and deployment[1][5].
+
+In summary, the main challenges Cisco identifies are:
+- Incomplete remediation of root causes in updates
+- Delayed or incomplete customer deployment of updates
+- Exploitation of vulnerabilities before patching
+- Reintroduction of vulnerabilities through development regressions
+- Use of unsupported, unpatched legacy systems
+- Dependence on third-party providers for timely vulnerability fixes
+- Complexity and distributed nature of modern networks complicating update management and security[1][5]."
+2024-meta-full-annual-report.pdf,2024-meta-full-annual-report,annual_report/2024-meta-full-annual-report.pdf,"The report is about Meta Platforms, Inc. and covers the financial results for the fourth quarter and full year ended December 31, 2024[1][3][4].","Meta Reports Fourth Quarter and Full Year 2024 Results
+MENLO PARK, Calif. – January 29, 2025 – Meta Platforms, Inc. (Nasdaq: META) today reported financial results for the 
+quarter and full year ended December 31, 2024.
+""We continue to make good progress on AI, glasses, and the future of social media,"" said Mark Zuckerberg, Meta founder 
+and CEO. ""I'm excited to see these efforts scale further in 2025.""
+Fourth Quarter and Full Year 2024 Financial Highlights
+Three Months Ended December 31,
+ % Change
+Twelve Months Ended December 31,
+% Change
+In millions, except percentages and 
+per share amounts
+2024
+2023
+2024
+2023
+Revenue
+$ 
+48,385 
+$ 
+40,111 
+ 21 % $ 
+164,501 
+$ 
+134,902 
+ 22 %
+Costs and expenses
+ 
+25,020 
+ 
+23,727 
+ 5 %  
+95,121 
+ 
+88,151 
+ 8 %
+Income from operations
+$ 
+23,365 
+$ 
+16,384 
+ 43 % $ 
+69,380 
+$ 
+46,751 
+ 48 %
+Operating margin
+ 48 %
+ 41 %
+ 42 %
+ 35 %
+Provision for income taxes
+$ 
+2,715 
+$ 
+2,791 
+ (3) % $ 
+8,303 
+$ 
+8,330 
+ — %
+Effective tax rate
+ 12 %
+ 17 %
+ 12 %
+ 18 %
+Net income
+$ 
+20,838 
+$ 
+14,017 
+ 49 % $ 
+62,360 
+$ 
+39,098 
+ 59 %
+Diluted earnings per share 
+(EPS)
+$ 
+8.02 
+$ 
+5.33 
+ 50 % $ 
+23.86 
+$ 
+14.87 
+ 60 %
+Fourth Quarter and Full Year 2024 Operational and Other Financial Highlights
+•
+Family daily active people (DAP) – DAP was 3.35 billion on average for December 2024, an increase of 5% year-
+over-year.
+•
+Ad impressions – Ad impressions delivered across our Family of Apps increased by 6% and 11% year-over-year 
+for the fourth quarter and full year 2024, respectively. 
+•
+Average price per ad – Average price per ad increased by 14% and 10% year-over-year for the fourth quarter and 
+full year 2024, respectively.
+•
+Revenue – Revenue was $48.39 billion and $164.50 billion, representing increases of 21% and 22% year-over-year 
+for the fourth quarter and full year 2024, respectively. Revenue on a constant currency basis would have increased 
+21% and 23% year-over-year for the fourth quarter and full year 2024, respectively.
+•
+Costs and expenses – Total costs and expenses were $25.02 billion and $95.12 billion, representing increases of 5% 
+and 8% year-over-year for the fourth quarter and full year 2024, respectively. The fourth quarter costs and expenses 
+included a favorable impact of $1.55 billion due to a decrease in the accrued losses for certain legal proceedings.
+•
+Capital expenditures – Capital expenditures, including principal payments on finance leases, were $14.84 billion 
+and $39.23 billion for the fourth quarter and full year 2024, respectively. 
+•
+Capital return program – Share repurchases of our Class A common stock were nil and $29.75 billion, and total 
+dividend and dividend equivalent payments were $1.27 billion and $5.07 billion for the fourth quarter and full year 
+2024, respectively.
+•
+Cash, cash equivalents, and marketable securities – Cash, cash equivalents, and marketable securities were 
+$77.81 billion as of December 31, 2024. Free cash flow was $13.15 billion and $52.10 billion for the fourth quarter 
+and full year 2024, respectively.
+•
+Long-term debt – Long-term debt was $28.83 billion as of December 31, 2024.
+•
+Headcount – Headcount was 74,067 as of December 31, 2024, an increase of 10% year-over-year. 
+1",0,"Based on Meta Platforms, Inc.'s 2024 financial report, how did Meta's revenue, net income, and diluted earnings per share (EPS) for the fourth quarter and full year ended December 31, 2024, compare to the same periods in 2023?","Based on Meta Platforms, Inc.'s 2024 financial report, for the fourth quarter ended December 31, 2024, revenue was $48.39 billion, a 21% increase from $40.11 billion in Q4 2023. Net income for Q4 2024 was $20.84 billion, up 49% from $14.02 billion in Q4 2023. Diluted earnings per share (EPS) for Q4 2024 were $8.02, a 50% increase from $5.33 in the same quarter of 2023. For the full year ended December 31, 2024, revenue reached $164.50 billion, a 22% increase from $134.90 billion in 2023. Full-year net income rose 59% to $62.36 billion from $39.10 billion in 2023, and diluted EPS increased 60% to $23.86 from $14.87 in 2023[1][3][4]."
