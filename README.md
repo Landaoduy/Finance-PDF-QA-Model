@@ -17,7 +17,7 @@
 
 * This project simulates a realistic pipeline where:
   * Annual reports are broken into chunks and summarized
-  * Questions are auto-generated using Perplexity Sonar
+  * Questions are auto-generated using **Perplexity Sonar**
   * A retrieval-based QA model answers these questions
   * Each answer is scored by the LLM evaluator using a 5-point rubric on Factual Correctness, Completeness, and Clarity
 
