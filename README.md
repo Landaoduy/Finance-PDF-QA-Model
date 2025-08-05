@@ -22,6 +22,7 @@
   * Each answer is scored by the LLM evaluator using a 5-point rubric on Factual Correctness, Completeness, and Clarity
 
 ## Repository Structure
+```sh
 ├── app.py                      # Streamlit web app for uploading and interacting with PDFs
 ├── config.py                  # Project config and global constants
 ├── data_processing.py         # PDF loading, chunking, and summarization
@@ -33,4 +34,4 @@
 ├── annual_report/             # Sample input folder containing financial PDFs
 ├── session_1/                 # Output folder: metadata, questions, answers, evaluated CSVs
 ├── faiss_index_open/          # Saved FAISS vector store
-
+```
