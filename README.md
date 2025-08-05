@@ -13,3 +13,10 @@
   * **Plotly** – used to generate evaluation metric visualizations (box plots, histograms, heatmaps)
 
 ## Overview
+* Financial documents are often dense, multi-page, and highly structured. Extracting useful insights through LLMs presents challenges in chunking, hallucination prevention, and evaluation.
+
+* This project simulates a realistic pipeline where:
+  * Annual reports are broken into chunks and summarized
+  * Questions are auto-generated using Perplexity Sonar
+  * A retrieval-based QA model answers these questions
+  * Each answer is scored by the LLM evaluator using a 5-point rubric on Factual Correctness, Completeness, and Clarity
