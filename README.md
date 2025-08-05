@@ -20,3 +20,17 @@
   * Questions are auto-generated using Perplexity Sonar
   * A retrieval-based QA model answers these questions
   * Each answer is scored by the LLM evaluator using a 5-point rubric on Factual Correctness, Completeness, and Clarity
+
+## Repository Structure
+├── app.py                      # Streamlit web app for uploading and interacting with PDFs
+├── config.py                  # Project config and global constants
+├── data_processing.py         # PDF loading, chunking, and summarization
+├── question_generator.py      # LLM-based question generation from chunks
+├── retriever_model.py         # Embedding, FAISS index creation, retrieval pipeline
+├── evaluation.py              # Auto-evaluation using rubric-based prompts
+├── visualize.py               # Plotly visualizations for evaluation metrics
+├── main.ipynb                 # End-to-end notebook running the full pipeline
+├── annual_report/             # Sample input folder containing financial PDFs
+├── session_1/                 # Output folder: metadata, questions, answers, evaluated CSVs
+├── faiss_index_open/          # Saved FAISS vector store
+
