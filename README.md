@@ -79,11 +79,13 @@ Retrieval QA Stack:
 
 ### Evaluation Method
 * Each answer is evaluated using a custom prompt fed to **Perplexity Sonar**, scoring across:
+```sh
 | Metric              | Scale (1–5)                | Description                  |
 | ------------------- | -------------------------- | ---------------------------- |
 | Factual Correctness | 1 (Wrong) to 5 (Accurate)  | Matches facts from chunk     |
 | Completeness        | 1 (Incomplete) to 5 (Full) | Covers all parts of question |
 | Clarity             | 1 (Confusing) to 5 (Clear) | Easy to read and understand  |
+```
 
 ### Overall Performance
 * After evaluating 10 auto-generated Q&A pairs using the rubric-based LLM evaluator, the system achieved the following results:
