@@ -141,5 +141,8 @@ You can:
 <img width="1881" height="976" alt="image" src="https://github.com/user-attachments/assets/2e293049-b09c-48ee-9af6-87b2648b6de9" />
 
 ## Future Work
-
+* Add hallucination detection / penalization mechanism
+* Extend to multi-question per chunk or per document
+* Allow question filtering by topic (e.g. revenue, ESG, supply chain)
+  
 ## References
