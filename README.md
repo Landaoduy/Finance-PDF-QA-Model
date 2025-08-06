@@ -36,3 +36,7 @@
 ├── faiss_index_open/          # Saved FAISS vector store
 ```
 ## Summary of Workdone
+
+### Data
+#### Input:
+  
