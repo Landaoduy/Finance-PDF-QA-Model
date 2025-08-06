@@ -124,8 +124,8 @@ API_KEY = "sk-..."  # Paste your API key here
 
 **Run the full pipeline**
 * Open ```main.ipynb``` and run all cells to:
-  * Chunk and summarize the PDFs
-  * Generate and save questions
-  * Build retriever and answer questions
-  * Evaluate and visualize performance
+  1. Chunk and summarize the PDFs
+  2. Generate and save questions
+  3. Build retriever and answer questions
+  4. Evaluate and visualize performance
 
