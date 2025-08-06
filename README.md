@@ -23,7 +23,7 @@
 
 ## Repository Structure
 ```sh
-├── app.py                      # Streamlit web app for uploading and interacting with PDFs
+├── app.py                     # Streamlit web app for uploading and interacting with PDFs
 ├── config.py                  # Project config and global constants
 ├── data_processing.py         # PDF loading, chunking, and summarization
 ├── question_generator.py      # LLM-based question generation from chunks
