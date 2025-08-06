@@ -94,5 +94,22 @@ The model shows high factual reliability and excellent clarity, with 8 out of 10
 * **Summary Table**: Evaluation metrics for **Factual Correctness**, **Completeness**, **Clarity**, and **Overall Score**
 <img width="776" height="249" alt="image" src="https://github.com/user-attachments/assets/2f0b2e93-14ca-4d84-be6c-38581989aa89" />
 
+## Reproduce the Results
+* Clone the Repo:
+  ```sh
+  git clone https://github.com/Landaoduy/Finance-PDF-QA-Model.git
+  cd Finance-PDF-QA-Model
+  ```
+* Install dependencies
+  ```sh
+  pip install -r requirements.txt
+  ```
+  Or manually install:
+  ```sh
+  pip install langchain openai pymupdf faiss-cpu sentence-transformers pandas plotly streamlit
+  ```
+  
+
+
 
 
