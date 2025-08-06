@@ -48,4 +48,9 @@
   * Auto-generated questions (```questions.csv```)
   * Model-generated answers (```answers.csv```)
   * Evaluation scores and comments (```evaluated.csv```)
-  
+
+### Preprocessing
+* **PDF Loading**: Used ```PyMuPDFLoader``` via LangChain to extract full page text
+* **Summarization**: Queried Perplexity Sonar to summarize first 3 pages (single-sentence summary of company and year)
+* **Chunking**: Used ```RecursiveCharacterTextSplitter``` to create overlapping 5,000-character chunks with 100-character overlap
+* **Metadata Tracking**: Each file's word count, chunk count, and summary are saved to ```metadata.json```
