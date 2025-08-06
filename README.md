@@ -95,12 +95,12 @@ The model shows high factual reliability and excellent clarity, with 8 out of 10
 <img width="776" height="249" alt="image" src="https://github.com/user-attachments/assets/2f0b2e93-14ca-4d84-be6c-38581989aa89" />
 
 ## Reproduce the Results
-* Clone the Repo:
+* **Clone the Repo**
   ```sh
   git clone https://github.com/Landaoduy/Finance-PDF-QA-Model.git
   cd Finance-PDF-QA-Model
   ```
-* Install dependencies
+* **Install dependencies**
   ```sh
   pip install -r requirements.txt
   ```
@@ -108,8 +108,17 @@ The model shows high factual reliability and excellent clarity, with 8 out of 10
   ```sh
   pip install langchain openai pymupdf faiss-cpu sentence-transformers pandas plotly streamlit
   ```
-  
+* **Set your API Key**
+To use the Perplexity Sonar model, you'll need an API key.
+  Step 1: Go to https://www.perplexity.ai/api
+  Step 2: Sign in and click "Create API Key"
+  Step 3: Copy the key (starts with sk-...)
 
+Then, update the config.py file in the project root:
+```sh
+# config.py
+API_KEY = "sk-..."  # Paste your API key here
+```
 
 
 
