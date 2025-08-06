@@ -146,6 +146,6 @@ You can:
 * Allow question filtering by topic (e.g. revenue, ESG, supply chain)
   
 ## References
-https://python.langchain.com/docs/tutorials/rag/
-https://medium.com/@sangitapokhrel911/llm-based-pdf-summarizer-and-q-a-app-using-openai-langchain-and-streamlit-807b9b133d9c
-https://docs.perplexity.ai/home
+* https://python.langchain.com/docs/tutorials/rag/
+* https://medium.com/@sangitapokhrel911/llm-based-pdf-summarizer-and-q-a-app-using-openai-langchain-and-streamlit-807b9b133d9c
+* https://docs.perplexity.ai/home
