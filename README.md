@@ -86,7 +86,11 @@ Retrieval QA Stack:
 | Completeness        | 1 (Incomplete) to 5 (Full) | Covers all parts of question |
 | Clarity             | 1 (Confusing) to 5 (Clear) | Easy to read and understand  |
 
-### Overall Performance
+### Overall Performance & Visualization
+* **Histogram**: Overall score distribution with mean line
+  <img width="1263" height="386" alt="image" src="https://github.com/user-attachments/assets/a8f43cc7-b432-4134-a4ec-7df689b6af34" />
+The model shows high factual reliability and excellent clarity, with 8 out of 10 responses scoring a perfect 5
+  
 * After evaluating 10 auto-generated Q&A pairs using the rubric-based LLM evaluator, the system achieved the following results:
 <img width="776" height="249" alt="image" src="https://github.com/user-attachments/assets/2f0b2e93-14ca-4d84-be6c-38581989aa89" />
 
