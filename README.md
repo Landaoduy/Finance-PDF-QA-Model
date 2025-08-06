@@ -39,13 +39,13 @@
 
 ### Data
 * **Input**:
-  * PDF financial reports from 10 different companies placed in annual_report/
+  * PDF financial reports from 10 different companies placed in ```annual_report/```
   * Each file is processed independently
 
 * **Output**:
   * Summary of first 3 pages
   * List of chunked text segments (JSON)
   * Auto-generated questions (```questions.csv```)
-  * Model-generated answers (answers.csv)
-  * Evaluation scores and comments (evaluated.csv)
+  * Model-generated answers (```answers.csv```)
+  * Evaluation scores and comments (```evaluated.csv```)
   
