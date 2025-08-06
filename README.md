@@ -109,22 +109,23 @@ The model shows high factual reliability and excellent clarity, with 8 out of 10
   pip install langchain openai pymupdf faiss-cpu sentence-transformers pandas plotly streamlit
   ```
 **Set your API Key**
-To use the Perplexity Sonar model, you'll need an API key.
-* Go to https://www.perplexity.ai/api
-* Sign in and click "Create API Key"
-* Copy the key (starts with sk-...)
+* To use the Perplexity Sonar model, you'll need an API key:
+  * Go to https://www.perplexity.ai/api
+  * Sign in and click "Create API Key"
+  * Copy the key (starts with sk-...)
 
 Then, update the config.py file in the project root:
 ```sh
 # config.py
 API_KEY = "sk-..."  # Paste your API key here
 ```
-**Add your PDFs**: Drop any financial reports into the annual_report/ folder.
+**Add your PDFs**
+* Drop any financial reports into the annual_report/ folder.
 
 **Run the full pipeline**
-Open ```main.ipynb``` and run all cells to:
-* Chunk and summarize the PDFs
-* Generate and save questions
-* Build retriever and answer questions
-* Evaluate and visualize performance
+* Open ```main.ipynb``` and run all cells to:
+  * Chunk and summarize the PDFs
+  * Generate and save questions
+  * Build retriever and answer questions
+  * Evaluate and visualize performance
 
