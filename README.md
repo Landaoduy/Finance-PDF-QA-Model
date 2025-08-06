@@ -45,7 +45,7 @@
 * **Output**:
   * Summary of first 3 pages
   * List of chunked text segments (JSON)
-  * Auto-generated questions (questions.csv)
+  * Auto-generated questions (```sh questions.csv```)
   * Model-generated answers (answers.csv)
   * Evaluation scores and comments (evaluated.csv)
   
