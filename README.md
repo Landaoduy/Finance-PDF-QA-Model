@@ -119,8 +119,7 @@ Then, update the config.py file in the project root:
 # config.py
 API_KEY = "sk-..."  # Paste your API key here
 ```
-**Add your PDFs**
-Drop any financial reports into the annual_report/ folder.
+**Add your PDFs**: Drop any financial reports into the annual_report/ folder.
 
 **Run the full pipeline**
 Open ```main.ipynb``` and run all cells to:
