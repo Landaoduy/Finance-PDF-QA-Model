@@ -110,9 +110,9 @@ The model shows high factual reliability and excellent clarity, with 8 out of 10
   ```
 **Set your API Key**
 * To use the Perplexity Sonar model, you'll need an API key:
-  * Go to https://www.perplexity.ai/api
-  * Sign in and click "Create API Key"
-  * Copy the key (starts with sk-...)
+  1. Go to https://www.perplexity.ai/api
+  2. Sign in and click "Create API Key"
+  3. Copy the key (starts with sk-...)
 
 Then, update the config.py file in the project root:
 ```sh
@@ -128,4 +128,14 @@ API_KEY = "sk-..."  # Paste your API key here
   2. Generate and save questions
   3. Build retriever and answer questions
   4. Evaluate and visualize performance
+
+## Run the Streamlit App (Optional)
+```sh
+streamlit run app.py
+```
+You can:
+* Upload a new PDF
+* Auto-generate or type your question
+* Get an answer and evaluate it live
+* See your Q&A history in the sidebar
 
