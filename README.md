@@ -138,4 +138,6 @@ You can:
 * Auto-generate or type your question
 * Get an answer and evaluate it live
 * See your Q&A history in the sidebar
+<img width="1881" height="976" alt="image" src="https://github.com/user-attachments/assets/2e293049-b09c-48ee-9af6-87b2648b6de9" />
+
 
